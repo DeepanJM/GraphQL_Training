@@ -41,6 +41,8 @@ npm install @apollo/server graphql
 4. Run Apollo Interface:
 ```bash
 node index
+OR
+npm start
 ```
 5. Launching the Apollo Interface:
 ```bash
